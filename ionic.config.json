@@ -1,0 +1,7 @@
+{
+  "name": "triptalk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
